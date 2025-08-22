@@ -1,0 +1,28 @@
+PROCESSO DE ENTRADA SABIC/TRICON
+"GATE" (Planilha do Excel responsavel por atualizar os container que estão no pátio)
+1 - Com o Formulario de Descarga em mãos, preencher com as informações que estão no "GATE".
+2 - Com o Coletor em mãos criar pasta no OneDrive no respectivo Depositante com o respectivo dia, depois com a respectiva Ordem de Recebimento.
+3 - Tirar foto da traseira do container pegando o numero de indentificação, 1 foto do Codigo de Produto e Lote Industria depois Fotos a cada 2 metros e foto do container vazio.
+4 - Caso aja avaria, palete quebrado ou algo fora do normal tirar foto e sinalizar no formulario.
+5 - Pra finalizar o motorista precisa assinar o Formulario de Descarga, o Formulario de Descarga precisa ir direto para o ADM responsavel pelo respectivo Depositante.
+CADASTRO DE ORDEM DE RECEBIMENTO
+1 - Filtrar a Ordem de Recebimento
+2 - Apos achar e selecionar a OR, no subtitulo a cima "Vincular a OR" clicar em (Foto), procurar e achar a pasta no Onedrive da respectiva OR
+3 - Salve uma por uma e apos certificar que estão todas realmente upada no sistema, so fechar.
+GERENCIADOR DE ORDEM DE RECEBIMENTO
+Sabic a OR ja vem com uma Nota Fiscal*
+Tricon a Nota Fiscal Demora cerca de 15 dias pra chegar*
+1 - Quando já vinculado a NF na OR, no subtitulo superior "Controle" clique em Produtos, para a Conferencia de Entrada você precisará do "Codigo de Produto"
+CONFERENCIA DE ENTRADA(Senior|Coletor)
+Apos logar no Senior Coletor, Selecione o Armazem e vá em Conferencia de Entrada
+2 - Coloque a OR respectiva, classifique o estado do produto e coloque o Codigo de barra que é o mesmo que o Codigo do Produto visto no Gerenciador de Ordem de Recebimento
+3 - Coloque a quantidade(Sabic um palete por vez/Tricon pode colocar o total)
+4 - coloque o Lote Industria foi tirado foto e sinalizado a quantidade dele que veio na OR no Formulario de Descarga
+5 - apos colocar todos os Produto com a quantidade e lotes totais, volte em Gerenciador de Ordem de Recebimento, no subtitulo a cima "Acompanhamento" cheque o (Detalhes) para ver a quantidade atribuida a cada lote e depois cheque (Resumo Web) para ver se a quantidades divergentes da Nota Fiscal
+6 - Volte ao Coletor clique em Finalizar e Finalize todas as Conferencias
+7 - Volte ao Gerenciador de Ordem de Recebimento atualize no canto inferior esquerdo, selecione a OR respectiva vai no simbolo de duas setas no canto superior direito e clique em Gerar Alocação
+GERENCIADOR DE MAPA DE ALOCAÇÃO
+1 - No canto superior direito clique em "Tarefas Principais e procure por Gerenciador de Mapa de Alocação
+2 - No filtro de Pesquisa coloque o número da respectiva OR
+3 - selecione todos os Itens presionando Shift+clicando no primeiro e ultimo item, clique em no canto superior "Alterar Endereço de Alocação" coloque o Endereço de alocação que queres
+4 - Selecione tudo novamente e no mesmo canto superior clique em Confirmar Alocação, coloque seu usuario e senhar para confirmar.
